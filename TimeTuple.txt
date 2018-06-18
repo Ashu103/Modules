@@ -1,0 +1,4 @@
+from datetime import datetime
+
+dt = datetime(2018, 6, 18)
+print (dt.timetuple)
